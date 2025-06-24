@@ -60,7 +60,36 @@ Modeling techniques such as use case diagrams, data flow diagrams, and user stor
 Confirms that the documented requirements accurately reflect stakeholder needs.
 
 Involves stakeholder reviews, walkthroughs, and sometimes prototyping to verify completeness, correctness, and testability.
+🧾 Types of Requirements
+In software development, requirements are typically categorized into two main types: Functional Requirements and Non-functional Requirements. Both are essential to the success of a system but serve different purposes.
 
+🔧 Functional Requirements
+Functional requirements define what the system should do. They describe the features, behaviors, and interactions the system must support to fulfill user needs.
+
+📌 Examples for a Booking Management System:
+Users must be able to create, update, and cancel a booking.
+
+The system should allow administrators to view all bookings in a calendar view.
+
+The platform should send booking confirmation and cancellation emails to users.
+
+Registered users must be able to log in and manage their own bookings.
+
+The system should prevent double-booking of the same resource (e.g., room, seat, service).
+
+⚙️ Non-functional Requirements
+Non-functional requirements specify how the system should perform. They focus on quality attributes, such as performance, security, usability, and scalability.
+
+📌 Examples for a Booking Management System:
+The system should handle up to 10,000 concurrent users without performance degradation.
+
+Booking confirmation emails must be sent within 10 seconds of the action.
+
+The user interface must be responsive and accessible on both desktop and mobile devices.
+
+User data must be encrypted both at rest and in transit.
+
+The system should have 99.9% uptime availability.
 
 
 
