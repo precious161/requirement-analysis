@@ -91,5 +91,50 @@ User data must be encrypted both at rest and in transit.
 
 The system should have 99.9% uptime availability.
 
+📊 Use Case Diagrams
+What is a Use Case Diagram?
+A Use Case Diagram is a visual modeling tool from UML (Unified Modeling Language) that captures the functional requirements of a system. It shows who (actors) interacts with the system and what they can do (use cases).
+
+✅ Benefits:
+Clarifies system scope by identifying interactions
+
+Bridges communication between stakeholders and developers
+
+Acts as a high-level blueprint before moving into detailed design
+
+Use Case Example for Booking Management System
+Below is an illustrative use case diagram for our booking system. It includes the key actors and their main actions:
+
+Actors:
+
+Guest: Browses availability, makes/cancels bookings
+
+Registered User: Logs in, manages bookings
+
+Administrator: Oversees all bookings, manages resources, sends notifications
+
+Use Cases:
+
+Browse Availability
+
+Create Booking
+
+Update Booking
+
+Cancel Booking
+
+Log In / Log Out
+
+View All Bookings (Admin)
+
+Manage Resources (Admin)
+
+Send Notification Emails
+## 📊 Use Case Diagrams
+
+### Booking Management System Example
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
+
 
 
