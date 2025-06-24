@@ -33,7 +33,33 @@ By identifying requirements early, potential misunderstandings or gaps are addre
 
 3. 🛠 Enables Better Planning and Design
 A well-defined set of requirements allows for accurate project estimation—timelines, resources, budget—and informs system architecture, design decisions, and technology stack selection. This leads to a smoother, more predictable development process.
+🔍 Key Activities in Requirement Analysis
+Requirement Analysis involves a series of structured activities to ensure that the software system meets the expectations of its stakeholders. Below are the five key activities involved:
 
+• Requirement Gathering
+This is the initial step where information is collected from various stakeholders (clients, end-users, managers, etc.).
+
+The goal is to understand the business needs, user goals, and system constraints.
+
+• Requirement Elicitation
+Focuses on extracting detailed requirements through techniques such as interviews, surveys, observations, and workshops.
+
+Helps uncover implicit needs, clarify vague expectations, and ensure all voices are heard.
+
+• Requirement Documentation
+Converts gathered information into formal documents like the Software Requirements Specification (SRS).
+
+Ensures requirements are clearly written, organized, traceable, and accessible to both technical and non-technical stakeholders.
+
+• Requirement Analysis and Modeling
+Involves reviewing and refining requirements to eliminate ambiguity, resolve conflicts, and assess feasibility.
+
+Modeling techniques such as use case diagrams, data flow diagrams, and user stories are often used for visualization and validation.
+
+• Requirement Validation
+Confirms that the documented requirements accurately reflect stakeholder needs.
+
+Involves stakeholder reviews, walkthroughs, and sometimes prototyping to verify completeness, correctness, and testability.
 
 
 
